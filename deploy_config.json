@@ -1,5 +1,5 @@
 {
-    "ORG1 MSP": {
+    "Org1 MSP": {
         "chaincode": [
             {
                 "name": "ping",
